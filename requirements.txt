@@ -10,3 +10,4 @@ requests
 pandas
 scikit-learn
 pytesseract
+opencv-python-headless
