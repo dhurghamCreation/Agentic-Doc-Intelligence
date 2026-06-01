@@ -1,4 +1,4 @@
-﻿openai
+openai
 anthropic
 langchain
 langchain-community
